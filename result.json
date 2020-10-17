@@ -1,0 +1,167 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yPym3N3_zK6GHABGbrnte8TwqcY",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "BR",
+  "pageInfo": { "totalResults": 1000000, "resultsPerPage": 5 },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "02jWN4pAEYIB1cgVqPoB5jd6BDE",
+      "id": { "kind": "youtube#video", "videoId": "_g0qfBUuK7s" },
+      "snippet": {
+        "publishedAt": "2018-05-18T21:00:21Z",
+        "channelId": "UClb_3yTY2fUqk9cwqEBXrqw",
+        "title": "7 SÉRIES DE TV APAIXONANTES E DE ÉPOCA (OU HISTÓRICAS) �",
+        "description": "Procurando séries de TV envolventes e apaixonantes? Então esse vídeo é para você (e para todos que amam um bom romance de época ♥) Séries indicadas: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_g0qfBUuK7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_g0qfBUuK7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_g0qfBUuK7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paola Aleksandra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-18T21:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ERQUGy93GU5GI4A_w90aZ-R792A",
+      "id": { "kind": "youtube#video", "videoId": "dC2PS5jSAX4" },
+      "snippet": {
+        "publishedAt": "2020-04-24T13:46:56Z",
+        "channelId": "UCMpe3jOF79PYTvM6ZXR_4gg",
+        "title": "As Melhores Séries Históricas",
+        "description": "Você assiste uma série sobre uma época do passado e se pergunta se as coisas eram realmente assim? Bem nesse vídeo eu apresento as séries históricas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dC2PS5jSAX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dC2PS5jSAX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dC2PS5jSAX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jhan Lima",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-24T13:46:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kRBJh_sC_t2Y_S7Q3oPxRzBS920",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLB9V4mQD33b6H4i4Ad35lrksOHa-DniIa"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-08T21:25:49Z",
+        "channelId": "UCNeSTUKUqXNkcGsI_qCNDuw",
+        "title": "SERIES HISTORICAS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oVQ-LTvT2y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oVQ-LTvT2y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oVQ-LTvT2y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alexandra Sandoval",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-08T21:25:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hQnnZ_0mujhffPIwBe8wYEGY-oU",
+      "id": { "kind": "youtube#video", "videoId": "ugnVSoV9JXg" },
+      "snippet": {
+        "publishedAt": "2017-08-19T01:45:06Z",
+        "channelId": "UCNEHE-fUIGbfRVycpGvK_YA",
+        "title": "7 SÉRIES DE ÉPOCA QUE VOCÊ DEVERIA ASSISTIR",
+        "description": "Nessa lista, você vai encontrar séries com grandes produções e qualidade quando o assunto é antiguidades e até mesmo fantasia. ▻ REDES SOCIAIS Página: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ugnVSoV9JXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ugnVSoV9JXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ugnVSoV9JXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taberna Geek",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-19T01:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dEmYujbKLr-7H9KtGs-jQJFLDg8",
+      "id": { "kind": "youtube#video", "videoId": "CLKQJAEWZYk" },
+      "snippet": {
+        "publishedAt": "2017-07-07T19:02:38Z",
+        "channelId": "UCjRPaeMjV9EmRqDy5NKCWjQ",
+        "title": "Las Mejores Series Históricas",
+        "description": "Sígueme en: -Mi Twitter: https://twitter.com/MultiAmrasEsp -Mi Instagram: https://www.instagram.com/kevin_of_azgeda/ En este canal vas a poder ver desde ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CLKQJAEWZYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CLKQJAEWZYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CLKQJAEWZYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "xGoldenYT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-07T19:02:38Z"
+      }
+    }
+  ]
+}
